@@ -1,0 +1,12 @@
+{
+  "name": "web3-token-transfer-cli",
+  "version": "1.0.0",
+  "main": "transfer.js",
+  "scripts": {
+    "start": "node transfer.js"
+  },
+  "dependencies": {
+    "ethers": "^5.7.0",
+    "dotenv": "^16.0.0"
+  }
+}
