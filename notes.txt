@@ -1,0 +1,2 @@
+This project uses testnet.
+Never share your private key.
